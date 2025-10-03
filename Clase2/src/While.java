@@ -16,7 +16,6 @@ public class While {
                 break;
             }else {
                 System.out.println("Usuario o contraseña incorrectos");
-                continue;
             }
         }
     }
